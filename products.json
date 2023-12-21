@@ -1,0 +1,123 @@
+[
+    
+    {
+        "id":"1",
+        "name":"Natural.South.Sea.Pearl(15.00cts)",
+        "price":"Rs.5,000",
+        "image":"img/Motiimg.png"
+    },
+    {
+        "id":"2",
+        "name":"Natural Blue Sapphire (6.30 cts)",
+        "price":"Rs.12,000",
+        "image":"img/neelam2.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Pear Cut Ruby(10cts)",
+        "price":"20,000",
+        "image":"img/Ruby10.20.jpg"
+    },
+        {
+        "id":"4",
+        "name":"Torquiose (64.15 cts)",
+        "price":"Rs. 50,000",
+        "image":"img/turquiose.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Ruby (10.18 cts)",
+        "price":"Rs.10,000",
+        "image":"img/ruby2.jpg"
+    },
+    {
+        "id":"6",
+        "name":"Emerald/Panna(8cts)",
+        "price":"Rs.8,000",
+        "image":"img/panna.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Cat's Eye(Lahsunia) (9.13cts)",
+        "price":"Rs.2100",
+        "image":"img/lasuniya.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Gun Metal",
+        "price":"Rs.1000/per piece",
+        "image":"img/Gunmetal.jpg"
+    },
+    {
+        "id":"9",
+        "name":"Natural Marium(10cts)",
+        "price":"Rs. 15,00",
+        "image":"img/marium.jpg"
+    },
+    { 
+        "id":"10",
+        "name":"Creamy Opal (7cts)",
+        "price":"Rs.2,000",
+        "image":"img/whiteopal.jpg"
+    },
+    {
+        "id":"11",
+        "name":"Moonga (10 cts)",
+        "price":"Rs.7,000",
+        "image":"img/monga.jpg"
+    },
+    {
+        "id":"12",
+        "name":"Natural Ruby(10cts)",
+        "price":"Rs 11,000",
+        "image":"img/Ruby16.30.jpg"
+    },
+    {
+        "id":"13",
+        "name":"Australian Fire Opal(14cts)",
+        "price":"Rs.25,000",
+        "image":"img/FireOpal.jpg"
+    },
+    {
+        "id":"14",
+        "name":"Yellow Shapire(10cts)",
+        "price":"Rs 20,000",
+        "image":"img/yellowshapire.jpg"
+    },
+    {
+        "id":"15",
+        "name":"Blue Sapphire(5.75 cts)",
+        "price":"Rs. 12,000",
+        "image":"img/neelam5.75.jpg"
+    },
+    {
+        "id":"16",
+        "name":"Labradroite (50cts)",
+        "price":"Rs.10,000",
+        "image":"img/lerborite.jpg"
+    },
+    {
+        "id":"17",
+        "name":"Emerald/Panna(7cts)",
+        "price":"Rs.7,000",
+        "image":"img/panna.jpg"
+    },
+    {
+        "id":"18",
+        "name":"Amethyst/Katela(8cts)",
+        "price":"Rs. 2000",
+        "image":"img/katela.jpg"
+    },
+    {
+        "id":"19",
+        "name":"Emerald/Panna(7cts)",
+        "price":"Rs.7000",
+        "image":"img/panna.jpg"
+    },
+    {
+        "id":"20",
+        "name":"Natural.South.Sea.Pearl(15.00cts)",
+        "price":"Rs.5000",
+        "image":"img/Motiimg.png"
+    }
+]
